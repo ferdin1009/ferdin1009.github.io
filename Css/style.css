@@ -24,7 +24,7 @@ p {
 }
 
 .welcome{
-  height: 100vh;
+  height: 150vh;
   width: 100%;
   position: relative;
   z-index: -1;
